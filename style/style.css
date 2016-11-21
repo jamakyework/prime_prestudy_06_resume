@@ -1,0 +1,104 @@
+body {
+  background: url(109980_beige_marble_texture_5.jpg);
+  font: 15px "Garamond", arial, serif;
+  text-align: left;
+  margin: 0px;
+  border-radius: 15px;
+}
+
+h1 {
+  text-align: center;
+  color: #f49842;
+  font-style: italic;
+  font-size: 50px;
+}
+
+h2 {
+  color: #f49842;
+}
+
+h3 {
+  color: #f49842;
+}
+
+Header {
+  width: 50%;
+  height: 50%;
+  margin: 10px auto;
+  background-color: white;
+  border: 0px solid #f49842;
+  border-radius: 15px;
+  padding: 10px;
+  float: center;
+}
+
+a:hover {
+  color: green;
+}
+
+p {
+  color: black;
+}
+
+#Picture {
+  width: 200px;
+  height: 200px;
+  border: 0px solid #f49842;
+  float: right;
+  border-radius: 15px;
+}
+
+.Summary {
+  width: 50%;
+  height: 50%;
+  margin: 10px auto;
+  padding: 10px;
+  border: 0px solid #f49842;
+  border-radius: 15px;
+  text-align: left;
+}
+
+.Skills {
+  width: 50%;
+  height: 50%;
+  margin: 10px auto;
+  padding: 10px;
+  border: 0px solid #f49842;
+  border-radius: 15px;
+  text-align: left;
+}
+
+
+/*.Skills li {
+  color: black;
+}*/
+
+.Certifications {
+  width: 50%;
+  height: 50%;
+  margin: 10px auto;
+  padding: 10px;
+  border: 0px solid #f49842;
+  border-radius: 15px;
+  text-align: left;
+}
+
+.Education {
+  width: 50%;
+  height: 50%;
+  margin: 10px auto;
+  padding: 10px;
+  border: 0px solid #f49842;
+  border-radius: 15px;
+  text-align: left;
+}
+
+.Employment {
+  width: 50%;
+  height: 50%;
+  margin: 10px auto;
+  padding: 10px;
+  border: 0px solid #f49842;
+  border-radius: 15px;
+  text-align: left;
+}
